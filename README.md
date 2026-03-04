@@ -12,7 +12,7 @@ A fast, swipe-based browser game where you guess whether a name belongs to the P
 
 ## 🚀 Live Demo
 
-👉 https://mathieuviart.github.io/PokemonTCGSetOrMilitaryIntervention/
+👉 [https://mathieuviart.github.io/PokemonTCGSetOrMilitaryIntervention/](https://mathieuviart.github.io/PokemonTCGSetOrMilitaryOperation/)
 
 ---
 
