@@ -10,9 +10,7 @@ A fast, swipe-based browser game where you guess whether a name belongs to the P
 
 ---
 
-## 🚀 Live Demo
-
-👉 [https://mathieuviart.github.io/PokemonTCGSetOrMilitaryIntervention/](https://mathieuviart.github.io/PokemonTCGSetOrMilitaryOperation/)
+👉 [[Play here!](https://mathieuviart.github.io/PokemonTCGSetOrMilitaryOperation/)]
 
 ---
 
@@ -103,39 +101,3 @@ Just open `index.html` and play.
 ```
 
 Everything is self-contained in a single file for simplicity and GitHub Pages deployment.
-
----
-
-## 🎯 Why This Exists
-
-Because:
-
-1. Pokémon TCG set names sound like military operations.
-2. Military operations sound like Pokémon TCG set names.
-3. That’s objectively funny.
-
----
-
-## 🧩 Possible Future Improvements
-
-- Difficulty scaling
-- Timed mode
-- Score leaderboard
-- Sound effects
-- Card rarity system
-- Statistics dashboard
-- Mobile vibration feedback
-- Dark/Light theme toggle
-
----
-
-## 📜 License
-
-MIT — feel free to fork, remix, or improve.
-
----
-
-## 👤 Author
-
-**Mathieu Viart**  
-GitHub: https://github.com/mathieuviart
